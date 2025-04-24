@@ -1,2 +1,4 @@
 Hello cat
 I'm fine)
+Hello cat!
+How are you)
